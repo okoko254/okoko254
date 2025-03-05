@@ -1,3 +1,15 @@
+👩‍💻 About Me
+Hi there! 👋 I'm Rebecca Okoko, a passionate Machine Learning Engineer and Backend Developer currently pursuing my studies at Meru University.
+
+🌱 Currently Learning: Web Development (HTML, CSS, JavaScript, Django, Flask)
+🔬 Expertise: Machine Learning, Data Science, and Backend Engineering
+💡 Tech Stack: Python, Django, Flask, FastAPI, SQL, MongoDB, TensorFlow, Scikit-learn
+🚀 Interests: AI, API Development, Data Visualization, Cloud Computing
+
+🌎 Connect With Me
+📩 Email: [okokorebecca39@gmail.com]
+🏗️ LinkedIn: [https://www.linkedin.com/in/rebecca-okoko-7575b12b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
 # 🚀 Welcome to My GitHub Profile!
 
 ## 🛠️ Tech Stack
@@ -60,12 +72,4 @@
 
 ## 🎯 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okoko254)
----
-
-### **🚀 How to Use:**
-1️⃣ Replace **`your-username`** with your GitHub username  
-2️⃣ (Optional) Replace **social media links** with yours  
-3️⃣ Save this as `README.md` in your profile repository (`your-username/your-username`)  
-4️⃣ **Commit & Push** 🚀  
-
 ---
