@@ -1,4 +1,5 @@
 👩‍💻 About Me
+---
 Hi there! 👋 I'm Rebecca Okoko, a passionate Machine Learning Engineer and Backend Developer currently pursuing my studies at Meru University.
 
 🌱 Currently Learning: Web Development (HTML, CSS, JavaScript, Django, Flask)
